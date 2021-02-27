@@ -1,4 +1,4 @@
-,case:concept:name,concept:name,time:timestamp
+case:id,case:concept:name,concept:name,time:timestamp
 0,0,IV Liquid,1970-04-26 18:46:40
 1,0,ER Registration,1970-04-26 18:46:41
 2,0,ER Triage,1970-04-26 18:46:42

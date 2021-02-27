@@ -21,6 +21,7 @@ def detailFile(request):
     return render(request,'home.html',{})
    #return HttpResponse("<p>Upload failed!</p>")
   file.name = 'input_log'+os.path.splitext(file.name)[1]
+  print(file.name,"line 24")
   #user = User.objects.create(name=name, file=file)
 
   #user = User.objects.create(name=name, file=file)
